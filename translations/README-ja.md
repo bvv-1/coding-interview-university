@@ -784,16 +784,16 @@ Anki 形式のフラッシュカード データベース: https://ankiweb.net/s
 
 - [ ] [【復習】18分で分かるソート(プレイリスト](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
 	- [ ] [4 分で簡単ソート (動画)](https://youtu.be/Hoixgm4-P4M)
-	- [ ] [4 分でヒープソート (動画)](https://youtu.be/2DmK_H7IdTo)
-	- [ ] [3 分で並べ替えをマージする (動画)](https://youtu.be/4VqmGXwpLqc)
-	- [ ] [2 分でわかるバブルソート (動画)](https://youtu.be/xli_FI7CuzA)
-	- [ ] [3分でわかる選択ソート(動画)](https://youtu.be/g-PGLbMth_g)
-	- [ ] [2分で挿入ソート(動画)](https://youtu.be/JU767SDMDvA)
+	- [x] [4 分でヒープソート (動画)](https://youtu.be/2DmK_H7IdTo)
+	- [x] [3 分で並べ替えをマージする (動画)](https://youtu.be/4VqmGXwpLqc)
+	- [x] [2 分でわかるバブルソート (動画)](https://youtu.be/xli_FI7CuzA)
+	- [x] [3分でわかる選択ソート(動画)](https://youtu.be/g-PGLbMth_g)
+	- [x] [2分で挿入ソート(動画)](https://youtu.be/JU767SDMDvA)
 
 
-- [ ] 実装
-	- [ ] マージソート: O(n log n) 平均および最悪の場合
-	- [ ] クイックソート O(n log n) の平均ケース
+- [x] 実装
+	- [x] マージソート: O(n log n) 平均および最悪の場合
+	- [x] クイックソート O(n log n) の平均ケース
 	- 選択ソートと挿入ソートは両方とも O(n^2) 平均および最悪の場合です
 	- ヒープソートについては、上記のヒープ データ構造を参照してください。
 
